@@ -7,9 +7,9 @@ I am doing this just to test a XYZ motion platfom I am working on as described o
 
 I intend to show this XYZ Platform on YouTube Channel: www.youtube.com/channel/UC5GQda77WExalrXs8D76sPA
 
-I do use a Breadboard extender (my term, others probably would call them breadboard widgets). The details of those boards can be found on Hack-A-Day:
+I do use a Breadboard extender (my term, others probably would call them breadboard widgets). The details of those boards can be found on Hack-A-Day: https://hackaday.io/project/9305-breadboard-extenders
 
-Of the 5 buttons used by the code: https://hackaday.io/project/9305-breadboard-extenders
+Of the 5 buttons used by the code: 
 
 Pin 6 Button : LED Pin 8 will be Latched on, and LED Pin 11 will be latched on to indicate Full On Mode in Direction B is on.
 
