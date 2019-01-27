@@ -12,9 +12,13 @@ I do use a Breadboard extender (my term, others probably would call them breadbo
 Of the 5 buttons used by the code: https://hackaday.io/project/9305-breadboard-extenders
 
 Pin 6 Button : LED Pin 8 will be Latched on, and LED Pin 11 will be latched on to indicate Full On Mode in Direction B is on.
+
 Pin 5 Button : LED Pin 8 will be on while the button is pressed (momentary), and LED Pin 11 will be off to indicate Full On Mode in Direction B is off.
+
 Pin 4 Button : Will turn all LEDs off.
+
 Pin 3 Button : LED Pin 7 will be on while the button is pressed (momentary), and LED Pin 10 will be off to indicate Full On Mode in Direction A is off.
+
 Pin 2 Button : LED Pin 7 will be Latched on, and LED Pin 10 will be latched on to indicate Full On Mode in Direction A is on.
 
 
