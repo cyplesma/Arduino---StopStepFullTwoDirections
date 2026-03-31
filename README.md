@@ -1,9 +1,11 @@
 # Arduino---StopStepFullTwoDirections
-This Arduino program is just some coded up logic that turns on a couple of LEDs based on which of 5 buttons have been pushed.
+# StopStepFullTwoDirections
 
-I will be using this code in another Arduino project that I will use to control / test a NEMA 17 stepper moter using the easy driver stepper motor control boards.
+An Arduino-based control-logic example using 5 buttons to drive latched and momentary outputs for two directions.
 
-I am doing this just to test a XYZ motion platfom I am working on as described on Hack-A-Day: https://hackaday.io/project/9349-xyz-repeatable-platform
+Originally created as part of testing logic for a motion-platform / stepper-motor project using NEMA 17 and Easy Driver hardware.
+
+Although this project was built for Arduino, the core input/output logic can also be adapted to other Arduino-compatible or similar microcontroller platforms.
 
 I intend to show this XYZ Platform on YouTube Channel: www.youtube.com/channel/UC5GQda77WExalrXs8D76sPA
 
